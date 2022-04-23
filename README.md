@@ -1,5 +1,12 @@
-i am theroy
+hey im theroy
 
-i do open source things feel free to use my code as a reference/base (though i suck)
+i like programming random things. web design is also pretty cool.
 
-always open to learning new things so feel free to correct any mistakes of mine :D
+i know mainly java but have dabbled in
+<ul>
+  <li>python</li>
+  <li>c++</li>
+  <li>c</li>
+  <li>php (screw this language in particular)</li>
+  
+  feel free to correct my code (i am still not good) :)
