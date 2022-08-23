@@ -1,4 +1,4 @@
-hey im theroy
+hey im turqee
 
 i like programming random things. web design is also pretty cool.
 
